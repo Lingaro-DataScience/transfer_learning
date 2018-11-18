@@ -1,2 +1,2 @@
-# KARIERA-IT
-All material related to talk given on Kariera IT 2018 conference
+# Transfer Learning
+All material related to talk about transfer learning.
